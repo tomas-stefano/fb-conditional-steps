@@ -12,8 +12,17 @@
   ],
   "sectionHeading": "Text section heading",
   "show": {
-    "identifier": "auto_name__4",
-    "operator": "defined"
+    "all": [
+      {
+        "identifier": "auto_name__4",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "1"
+      }
+    ]
   },
   "url": "text"
 }
